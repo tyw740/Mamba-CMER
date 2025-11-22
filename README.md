@@ -4,7 +4,7 @@
 **Yiwen Tong, Jing Mu, Wenxin Chang, Huilin Zeng**
 *“Mamba-CrossMod: A Multimodal Emotion Recognition Framework Based on Selective State Space Model”*
 
---
+***
 
 ## **Requirements**
 
@@ -20,7 +20,7 @@ einops==0.8.1
 scikit-learn==1.6.1
 ```
 
---
+***
 
 ## **Training**
 
@@ -43,5 +43,5 @@ scikit-learn==1.6.1
 4. **Run the training notebook**
    Execute **Mamba-CMER.ipynb** to start training the model.
 
----
+***
 
