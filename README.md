@@ -44,4 +44,4 @@ scikit-learn==1.6.1
    Execute **Mamba-CMER.ipynb** to start training the model.
 
 ***
-
+This repository is associated with the manuscript submitted to The Visual Computer.
